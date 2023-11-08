@@ -41,3 +41,4 @@
 [submodule "edk2"]
 	path = edk2
 	url = https://github.com/comexr/edk2
+	branch = main
