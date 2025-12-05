@@ -1,6 +1,6 @@
 [submodule "edk2"]
 	path = edk2
-	url = https://github.com/system76/edk2.git
+	url = https://github.com/comexr/edk2.git
 	branch = system76
 [submodule "coreboot"]
 	path = coreboot
